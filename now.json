@@ -4,7 +4,7 @@
     "env": {
         "MONGODB_URI": "mongodb+srv://administrador:<password>@cluster0.ho7f0.mongodb.net/alarmashugo?retryWrites=true&w=majority",
         "VAPID_PRIV": "b7IR5bI0O4ji2iw6XIP_P2Nz-fiHQQuGAEStCCvH260",
-        "LOG_SERVER": "@pushme-logserver"
+        "LOG_SERVER": "./"
     },
     "regions": ["bru1"],
     "github": { "silent": true }
