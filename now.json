@@ -2,8 +2,8 @@
     "version": 2,
     "name": "pushme",
     "env": {
-        "MONGODB_URI": "@mongodb-uri-pushme",
-        "VAPID_PRIV": "@vapid-private-key",
+        "MONGODB_URI": "mongodb+srv://administrador:<password>@cluster0.ho7f0.mongodb.net/alarmashugo?retryWrites=true&w=majority",
+        "VAPID_PRIV": "b7IR5bI0O4ji2iw6XIP_P2Nz-fiHQQuGAEStCCvH260",
         "LOG_SERVER": "@pushme-logserver"
     },
     "regions": ["bru1"],
